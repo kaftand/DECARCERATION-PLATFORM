@@ -1,0 +1,11 @@
+{
+  "queryStringParameters": {
+    "startDate": "0",
+    "endDate": "1609459200"
+  },
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}

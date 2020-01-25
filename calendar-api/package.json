@@ -1,0 +1,16 @@
+{
+  "name": "calendar-api",
+  "version": "1.0.0",
+  "description": "api for mdp calendar",
+  "main": "events.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws": "0.0.3-2",
+    "aws-sdk": "^2.610.0",
+    "help": "^3.0.2"
+  }
+}
